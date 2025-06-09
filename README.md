@@ -1,3 +1,4 @@
+![PhantomBotV2](https://github.com/user-attachments/assets/73aa24e5-49c6-46e5-b5f5-e7ba447393d2)
 # Phantom Bot V2 - Missing Word & Position Finder
 
 This Python script is an advanced version designed to recover a 12-word seed phrase for a Phantom Wallet when **one of the 12 words is missing and its original position is unknown**.
